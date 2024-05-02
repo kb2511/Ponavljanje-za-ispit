@@ -1,0 +1,6 @@
+@Zadatak2_KraciNacin_HostAddress = http://localhost:5279
+
+GET {{Zadatak2_KraciNacin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
