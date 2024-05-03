@@ -15,7 +15,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadatak7_Delegat", "Zadatak
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadatak8_MVC", "Zadatak8_MVC\Zadatak8_MVC.csproj", "{E55CA443-A8C0-4350-A85E-1E94F2D8B50C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadatak2_KraciNacin", "Zadatak2_KraciNacin\Zadatak2_KraciNacin.csproj", "{121F2599-50A6-4ED7-BB54-2AE93F5EF782}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zadatak2_KraciNacin", "Zadatak2_KraciNacin\Zadatak2_KraciNacin.csproj", "{121F2599-50A6-4ED7-BB54-2AE93F5EF782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadatak9_ADO", "Zadatak9_ADO\Zadatak9_ADO.csproj", "{1B460C1E-4596-43CF-A738-891ED31A89ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{121F2599-50A6-4ED7-BB54-2AE93F5EF782}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{121F2599-50A6-4ED7-BB54-2AE93F5EF782}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{121F2599-50A6-4ED7-BB54-2AE93F5EF782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B460C1E-4596-43CF-A738-891ED31A89ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B460C1E-4596-43CF-A738-891ED31A89ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B460C1E-4596-43CF-A738-891ED31A89ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B460C1E-4596-43CF-A738-891ED31A89ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
